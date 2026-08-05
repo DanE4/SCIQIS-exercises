@@ -24,3 +24,7 @@ uv run jupyter lab
 
 Each exercise lives in its own numbered folder under `exercises/` and may
 contain Python files, Jupyter notebooks, or both.
+
+## Exercises
+
+1. [Quantum circuit simulator](exercises/01-quantum-circuit-simulator/)
