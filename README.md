@@ -28,3 +28,4 @@ contain Python files, Jupyter notebooks, or both.
 ## Exercises
 
 1. [Quantum circuit simulator](exercises/01-quantum-circuit-simulator/)
+2. [Compare circuit simulators](exercises/02-compare-circuit-simulators/)
